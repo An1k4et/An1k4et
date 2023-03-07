@@ -1,4 +1,4 @@
-![MasterHead](https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif)
+
 <h1 align="center">Hi 👋, I'm Aniket Vishwakarma</h1>
 <h3 align="center">I learn from Past/Data like Artificial Intelligence</h3>
 <img align="right" alt=”Coding” width=”40” src="https://64.media.tumblr.com/eb1498e028d2b1ecede695a948cfc4ea/tumblr_nadi2pqZQZ1tbzfsfo1_400.gif"/>
