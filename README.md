@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an1k4et&label=Profile%20views&color=0e75b6&style=flat" alt="an1k4et" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and Flutter**
+- 🌱 I’m currently learning **Spring Boot and AI**
 
-- 💬 Ask me about **Mathematics, Python, Cybersecurity**
+- 💬 Ask me about **Spring Boot, AI, Python, Cybersecurity**
 
 - 📫 How to reach me **aniket.1083812@ratnamcollege.edu.in**
 
-- ⚡ Fun fact **I doesn't have emotion**
+- ⚡ Fun fact **We need to upgrade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
