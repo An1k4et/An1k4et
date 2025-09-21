@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spring Boot, AI, Python, Cybersecurity**
 
-- 📫 How to reach me **aniket.1083812@ratnamcollege.edu.in**
+- 📫 How to reach me **aniket.14vishwa@gmail.com**
 
 - ⚡ Fun fact **We need to upgrade**
 
