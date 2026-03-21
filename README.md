@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniket.14vishwa@gmail.com**
 
-- ⚡ Fun fact **Building in the AI era**
+- ⚡ Fun fact **Building in the AI era, for the AI, with the AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
