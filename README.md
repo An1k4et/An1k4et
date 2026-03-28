@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Cybersecurity and AI Agents**
 
-- 💬 Ask me about **Spring Boot, Python, AI, Cybersecurity, Automation**
+- 💬 Ask me about **Spring Boot, AI, Cybersecurity, Automation**
 
 - 📫 How to reach me **aniket.14vishwa@gmail.com**
 
