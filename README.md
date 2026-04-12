@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Developement**
 
-- 💬 Ask me about **Spring Boot, AI and Cybersecurity**
+- 💬 Ask me about **AI and Cybersecurity**
 
 - 📫 How to reach me **aniket.14vishwa@gmail.com**
 
