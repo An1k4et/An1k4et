@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an1k4et&label=Profile%20views&color=0e75b6&style=flat" alt="an1k4et" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developement**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **AI and Cybersecurity**
 
